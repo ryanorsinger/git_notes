@@ -16,3 +16,11 @@ If your work aint checked into version control (github), it doesn't exist
 Add, commit, push every day
 Don't worry about pushing complete, perfect work (backed up > perfect)
 Write your commit messages to tell a story
+
+## Every Day Workflow
+- Every day, we'll:
+    - Do work (add, modify, or delete files or lines in files)
+    - git add filename.py or git add -A (to add everything)
+    - git commit -m "what is this change and why are you doing it"
+    - git push
+    
