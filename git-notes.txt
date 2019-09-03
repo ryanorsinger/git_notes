@@ -27,3 +27,8 @@ Write your commit messages to tell a story
 
 ## Reminders
 - Use "git status" often
+
+## Adding files
+git add filename.py hello.py
+git add .     (add all file changes or files in this here folder)
+git add -A    (add all files, folder, deleted files, and subdirectories)
