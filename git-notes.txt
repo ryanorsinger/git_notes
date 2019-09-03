@@ -23,4 +23,6 @@ Write your commit messages to tell a story
     - git add filename.py or git add -A (to add everything)
     - git commit -m "what is this change and why are you doing it"
     - git push
-    
+
+## Reminders
+- Use "git status" often
