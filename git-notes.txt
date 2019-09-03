@@ -1,0 +1,18 @@
+Git
+resume.pdf, resume2.pdf, resumeFINAL.pdf, resumeFINALFINAL-MONDAY.pdf
+
+Version Control System
+Rational: we have lots of file with lots of changes, with code every character matters. Track our changes, line by line in a permanent record system
+
+Vocabulary:
+git - version control system, created by linux maintainers 
+repository (repo) -> a directory tracked by git (git enabled directory)
+local repo -> laptop
+remote repo -> GitHub, on a production server
+commit -> snapshot in time w/ changes, w/ timestamp
+
+Mindset and approach:
+If your work aint checked into version control (github), it doesn't exist
+Add, commit, push every day
+Don't worry about pushing complete, perfect work (backed up > perfect)
+Write your commit messages to tell a story
